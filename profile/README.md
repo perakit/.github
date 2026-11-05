@@ -31,7 +31,7 @@ Bergabunglah dengan komunitas kami untuk berdiskusi, berbagi ide, dan berkolabor
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah lisensi GPL-3.0. Lihat file LICENSE untuk informasi lebih lanjut.
+Proyek ini dilisensikan di bawah [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0). Lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
 
 ## Kontak
 
